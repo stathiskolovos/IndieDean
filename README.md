@@ -1,7 +1,8 @@
 # IndieDen
 Εξαμηνιαία εργασία εαρινού 2019 (Τεχνολογία Λογισμικού)
 
-Ο φάκελος Eclipse Project File περιέχει το αρχείο του project για το eclipse(import workspace)
+Ο φάκελος Eclipse Project File περιέχει το αρχείο του project για το eclipse (import workspace). Για το import χρειάζεται και η βιβλιοθήκη
+Apache commons.
 
 Ο φάκελος indieDen περιέχει μόνο τις κλάσεις Java του project με σχολιασμό.
 
