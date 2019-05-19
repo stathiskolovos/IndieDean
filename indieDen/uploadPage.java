@@ -198,7 +198,7 @@ public class uploadPage extends JFrame {
         gore.setBounds(10, 560, 97, 23);
         panel.add(gore);
         
-        JCheckBox ex_lang = new JCheckBox("Expicit Langouage");
+        JCheckBox ex_lang = new JCheckBox("Expicit Language");
         ex_lang.addActionListener(new ActionListener() {
         	public void actionPerformed(ActionEvent e) {
         		if(ex_lang.isSelected()) {
