@@ -54,7 +54,6 @@ public class homePage extends JFrame {
 	static int y = 10;
 	static int x = 10;
 	
-	String content;
 	String user_url = root_folder + "/users/" + loginPage.username;
 	
 	static String root_folder = System.getProperty("user.home") + "/Desktop/IndieDen/";
