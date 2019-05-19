@@ -34,7 +34,6 @@ public class reportPageAdmin extends JFrame {
 	public reportPageAdmin() {
 	}
 
-	private JPanel contentPane;
 	public int id;
 	
 	//Resolution
